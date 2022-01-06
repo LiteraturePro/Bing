@@ -62,7 +62,7 @@
 ##### 2.1 前端 DEMO
 
 ```
-https://bing.ovzv.cn/
+https://static-6cc46a21-10af-4cd7-a52d-d8c57329708e.bspapp.com/
 ```
 
 
